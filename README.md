@@ -21,6 +21,7 @@
 
 • <a href="https://www.figma.com/file/kLK7FYnWKMoN68sQXcSniu/PayFlow"> Figma</a> 
 • <a 
-href="https://www.notion.so/NLW-6-Rocketseat-Flutter-49f0d0282d8c4423af793604de57eca5">Anotações - Notion</a>
+href="https://www.notion.so/NLW-6-Rocketseat-Flutter-49f0d0282d8c4423af793604de57eca5">Anotações</a>
 • <a href="https://nextlevelweek.com/inscricao/6"> Edição Rocketseat</a>
+• <a href="https://www.linkedin.com/feed/update/urn:li:activity:6814229370362699776/"> Linkedln</a>
 
