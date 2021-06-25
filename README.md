@@ -5,17 +5,17 @@
 </div>
 
 ##  Algumas tecnologias usadas:
-✅ Cupertino icons \n
-✅ Google Fonts \n
-✅ Firebase \n
-✅ Google sign in \n
-✅ Shared Preferences \n
-✅ Google MLKit \n
-✅ Camera \n
-✅ Image Picker \n
-✅ Font Awesome Flutter \n
-✅ Flutter Masked text2 \n
-✅ Animated Card \n
+✅ Cupertino icons <br />
+✅ Google Fonts<br />
+✅ Firebase <br />
+✅ Google sign in <br />
+✅ Shared Preferences <br />
+✅ Google MLKit <br />
+✅ Camera <br />
+✅ Image Picker <br />
+✅ Font Awesome Flutter <br />
+✅ Flutter Masked text2 <br />
+✅ Animated Card <br />
 
 ## Mais o projeto
 
