@@ -1,6 +1,26 @@
-Meu primeiro projeto em Flutter que fiz acompanhando as aulas da Rocketseat na semana da NLW 6!
+<h2 align="center">  <a href=""></a>Payflow - APP em Flutter  </h2>  <p align="center">🚀Aplicativo desenvolvido durante a NLW 6 - Rocketseat 🚀</p>
 
-Resumo de tudo que aprendi durante as aulas: 
- - https://www.notion.so/NLW-6-Rocketseat-Flutter-49f0d0282d8c4423af793604de57eca5
+<div align="center">
+<img src=https://i.ibb.co/cYvHD7c/logofull.pngPayflo)>
+</div>
 
+##  Algumas tecnologias usadas:
+✅ Cupertino icons
+✅ Google Fonts
+✅ Firebase 
+✅ Google sign in
+✅ Shared Preferences
+✅ Google MLKit
+✅ Camera
+✅ Image Picker
+✅ Font Awesome Flutter
+✅ Flutter Masked text2
+✅ Animated Card
+
+## Mais o projeto
+
+• <a href="https://www.figma.com/file/kLK7FYnWKMoN68sQXcSniu/PayFlow"> Figma</a> 
+• <a 
+href="https://www.notion.so/NLW-6-Rocketseat-Flutter-49f0d0282d8c4423af793604de57eca5">Anotações - Notion</a>
+• <a href="https://nextlevelweek.com/inscricao/6"> Edição Rocketseat</a>
 
