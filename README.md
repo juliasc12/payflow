@@ -1,10 +1,8 @@
-<h2 align="center">  <a href=""></a>Payflow - APP em Flutter  </h2>  <p align="center">🚀Aplicativo desenvolvido durante a NLW 6 - Rocketseat 🚀</p>
+<h2 align="center">  <a href=""></a>Payflow - APP em Flutter  </h2>  <p align="center">🚀Aplicativo para gerênciamento de boletos desenvolvido durante a NLW 6 - Rocketseat 🚀</p>
 
 <div align="center">
 <img src=https://i.ibb.co/cYvHD7c/logofull.pngPayflo)>
 </div>
-
-Aplicativo para gerênciamento de boletos!
 
 ##  Algumas tecnologias usadas:
 ✅ Cupertino icons <br />
