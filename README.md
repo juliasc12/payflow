@@ -4,6 +4,8 @@
 <img src=https://i.ibb.co/cYvHD7c/logofull.pngPayflo)>
 </div>
 
+Aplicativo para gerênciamento de boletos!
+
 ##  Algumas tecnologias usadas:
 ✅ Cupertino icons <br />
 ✅ Google Fonts<br />
